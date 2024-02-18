@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hey guys, welcome to my github profile! 👋
 
-<!--
-**yLucasx3/yLucasx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a seasoned mid software engineer specialized in backend focused on software architecture, design patterns, clean code and the best practices of development.
 
-Here are some ideas to get you started:
+<br />
+✓ 📫 You can find my contact on LinkedIn: https://www.linkedin.com/in/arielucas/
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I work with:
+
+✓ JavaScript | TypeScript
+<br />
+✓ React.js | Next.js
+<br />
+✓ OpenAPI documentation
+<br />
+✓ REST | SOAP
+<br />
+✓ OAuth2
+<br />
+✓ MySQL | PostgreSQL
+<br />
+✓ MongoDB
+<br />
+✓ Github | GitLab | Bitbucket
+<br />
+✓ Linux | macOS | Windows
+<br />
+✓ Docker | Kubernets
+<br />
+✓ Cloud: Digital Ocean, AWS (S3, EC2, RDS, SES and studying other services)
+<br />
+✓ SOLID | Clean Code | TDD | DDD | Design Patterns
+<br />
+✓ Clean Architecture | Hexagonal Architecture
+<br />
+✓ CI/CD | DevOps
+<br />
