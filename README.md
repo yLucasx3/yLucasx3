@@ -5,6 +5,7 @@ I'm a seasoned mid software engineer specialized in backend focused on software 
 <br />
 ✓ 📫 You can find my contact on LinkedIn: https://www.linkedin.com/in/arielucas/
 <br />
+<br />
 
 Currently I work with:
 
