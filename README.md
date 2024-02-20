@@ -11,8 +11,6 @@ Currently I work with:
 
 ✓ JavaScript | TypeScript
 <br />
-✓ React.js | Next.js
-<br />
 ✓ OpenAPI documentation
 <br />
 ✓ REST | SOAP
