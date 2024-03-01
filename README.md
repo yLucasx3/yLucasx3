@@ -17,6 +17,8 @@ Currently I work with:
 <br />
 ✓ OAuth2
 <br />
+✓ RabbitMQ | Apache Kafka
+<br />
 ✓ MySQL | PostgreSQL
 <br />
 ✓ MongoDB
